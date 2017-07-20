@@ -1,0 +1,1 @@
+This project is about determining semantic relatedness of words via vector space models. In this context, we prepared word-word co-occurrence matrix with positive pointwise mutual information(PPMI) and then we measured semantic relatedness of words by applying cosine similarity on related vectors.
